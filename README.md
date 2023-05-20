@@ -18,6 +18,6 @@
 #### Modelos de predicción
 #### Sistema de recomendación
 ## Integrantes del grupo:
-Esteban Jaramillo
-Sebastián Giraldo
+#### Esteban Jaramillo
+#### Sebastián Giraldo
 
